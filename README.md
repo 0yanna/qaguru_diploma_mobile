@@ -1,7 +1,7 @@
 # Проект мобильного автотестирования www.wikipedia.org/
 ![](images/Wikipedia-logo-v2@2x.png)
 
-### :bar_chart:	Тест на поиск в Wiki:
+### :bar_chart:	Тест на поиск в Wiki
 
 ### :woman_technologist: Technology stack:
 <p  align="center">
@@ -16,19 +16,17 @@
 <a href="https://www.jenkins.io/"><img src="images/Jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"/></a>
 </p>
 
-### <img src="images/Allure_Report.svg" width="25" height="25" /></a> <a target="_blank" href="https://">Allure report</a>
+### Allure TestOps
+![](images/AllureTOM.png)
 
-Main window and build history
-![](images/)
+### <a target="_blank" href="https://jenkins.autotests.cloud/job/0yanna_qa_guru_11_diploma_mobile/1/allure/">Allure report</a>
 
-:spiral_notepad:	Test suite
-![](images/)
+![](images/alure_report_mobile.png)
 
-:chart_with_downwards_trend:	Graphs
-![](images/Graphs.png)
+:chart_with_downwards_trend: Graphs
+![](images/graphs_mobile.png)
 
-
-### Test execution example
+### Видео выполнения теста
 <p align="center">
-  <img title="Selenoid Video" src="images/24838d6398f7dd9febb7d1d5da55d51c.gif">
+  <img title="Video" src="images/0de7e259581df07fe745804e07d395d0f562f61f.gif">
 </p>
